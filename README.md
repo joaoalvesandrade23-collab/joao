@@ -6,16 +6,34 @@
     <title>curioidades da introdução a programação</title>
     <style> 
         header{ 
-            background-color: brown;
+            background-color: rgb(44, 42, 165);
+            color: antiquewhite;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 5px solid red; 
+        }
+        main {
+            background-color: blue;
+            color: antiquewhite;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;     
+        }
+        img {
+            width: 600px;
+            height: 600px;
         }
     </style>
 </head>
 <body>
     <header>
-     </main>
   <h1>minha pagina</h1>  
   <p>vou compartilhar curiosiades sobre introdução a computação </p>
    </header>
+    </main>
+    <img src="imagemblog.png" alt=""Curiosidades sobre Introdução à Programação" em letras grandes, brancas e com uma fonte moderna sem serifa. Ao redor do título, há pequenos ícones flutuantes que remetem ao universo do desenvolvimento de software: um par de chaves e barras de código { }, uma tela de computador minimalista exibindo uma linha de código fictícia, e o desenho estilizado de um cérebro iluminado conectado por circuitos. A composição visual é limpa, organizada e utiliza tons contrastantes de azul, branco e detalhes em amarelo para facilitar a leitura.">
 <h2>primeiro topico</h2>
 <p>por: joão pedro alves </p>
 <p>boas vindas a minhas curioidades de introdução a programação</p>
