@@ -1,3 +1,69 @@
+
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>curioidades da introdução a programação</title>
+    <style> 
+        header{ 
+            background-color: rgb(44, 42, 165);
+            color: antiquewhite;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 5px solid red; 
+        }
+        main {
+            background-color: blue;
+            color: antiquewhite;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;  
+            display: flex;   
+        }
+        img {
+            width: 600px;
+            height: 600px;
+        }
+        .artigo-autor {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+  <h1>minha pagina</h1>  
+  <p>vou compartilhar curiosiades sobre introdução a computação </p>
+   </header>
+    </main>
+    <img src="imagem.blog.png" alt=""Curiosidades sobre Introdução à Programação" em letras grandes, brancas e com uma fonte moderna sem serifa. Ao redor do título, há pequenos ícones flutuantes que remetem ao universo do desenvolvimento de software: um par de chaves e barras de código { }, uma tela de computador minimalista exibindo uma linha de código fictícia, e o desenho estilizado de um cérebro iluminado conectado por circuitos. A composição visual é limpa, organizada e utiliza tons contrastantes de azul, branco e detalhes em amarelo para facilitar a leitura.">
+<div>
+
+    <h2>primeiro topico</h2>
+<p class="artigo-autor">joão pedro alves </p>
+<p>boas vindas a minhas curioidades de introdução a programação</p>
+<button>❤ <span>0</span></button>
+<button>👍 <span>0</span></button>
+</div>
+ 
+<main>
+</body>
+<script>
+    const botoes = document.querySelectorAll("button");
+    
+    botoes.forEach( function(botao){
+        botao.addEventListener("click" , botaoClicado);
+        function botaoClicado(){
+        console.log("fui clicado");
+        let texto = botao.querySelector("span");
+        texto.textContent++;
+        }
+    })
+
+</script>
+</html>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
