@@ -1,5 +1,4 @@
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -38,15 +37,18 @@
   <p>vou compartilhar curiosiades sobre introdução a computação </p>
    </header>
     </main>
-    <img src="imagem.blog.png" alt=""Curiosidades sobre Introdução à Programação" em letras grandes, brancas e com uma fonte moderna sem serifa. Ao redor do título, há pequenos ícones flutuantes que remetem ao universo do desenvolvimento de software: um par de chaves e barras de código { }, uma tela de computador minimalista exibindo uma linha de código fictícia, e o desenho estilizado de um cérebro iluminado conectado por circuitos. A composição visual é limpa, organizada e utiliza tons contrastantes de azul, branco e detalhes em amarelo para facilitar a leitura.">
-<div>
+    <article>
 
-    <h2>primeiro topico</h2>
-<p class="artigo-autor">joão pedro alves </p>
-<p>boas vindas a minhas curioidades de introdução a programação</p>
-<button>❤ <span>0</span></button>
-<button>👍 <span>0</span></button>
-</div>
+        <img src="imagem.blog.png" alt=""Curiosidades sobre Introdução à Programação" em letras grandes, brancas e com uma fonte moderna sem serifa. Ao redor do título, há pequenos ícones flutuantes que remetem ao universo do desenvolvimento de software: um par de chaves e barras de código { }, uma tela de computador minimalista exibindo uma linha de código fictícia, e o desenho estilizado de um cérebro iluminado conectado por circuitos. A composição visual é limpa, organizada e utiliza tons contrastantes de azul, branco e detalhes em amarelo para facilitar a leitura.">
+    <div>
+    
+        <h2>primeiro topico</h2>
+    <p class="artigo-autor">joão pedro alves </p>
+    <p>boas vindas a minhas curioidades de introdução a programação</p>
+    <button>❤ <span>0</span></button>
+    <button>👍 <span>0</span></button>
+    </div>
+    </article>
  
 <main>
 </body>
@@ -99,10 +101,15 @@
   <p>vou compartilhar curiosiades sobre introdução a computação </p>
    </header>
     </main>
+    <div> 
     <img src="imagemblog.png" alt=""Curiosidades sobre Introdução à Programação" em letras grandes, brancas e com uma fonte moderna sem serifa. Ao redor do título, há pequenos ícones flutuantes que remetem ao universo do desenvolvimento de software: um par de chaves e barras de código { }, uma tela de computador minimalista exibindo uma linha de código fictícia, e o desenho estilizado de um cérebro iluminado conectado por circuitos. A composição visual é limpa, organizada e utiliza tons contrastantes de azul, branco e detalhes em amarelo para facilitar a leitura.">
-<h2>primeiro topico</h2>
+     <div>
+    <h2>primeiro topico</h2>
 <p>por: joão pedro alves </p>
 <p>boas vindas a minhas curioidades de introdução a programação</p>
-  <main>
+  <button>❤ <span>0</span></button>
+<button>👍 <span>0</span></button>
+</div>
+<main>
 </body>
 </html>
